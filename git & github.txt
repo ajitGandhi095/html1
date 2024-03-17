@@ -1,0 +1,10 @@
+first download and install git & verify it by "git -v"
+second goto github.com and create an account by signup. create a repository also
+1. In vs code left side--> accounts -->Sign in --> choose github and it open browser and github ligin screen, enter username, password--> login -->authiorise--> it will redirect to vs code
+
+authiorise process:
+
+open terminal--> new terminal--> goto specific folder
+1. git init - it will initial git into your folder
+2. git add . -> it will add all the files into git
+3. git commit -m "update" -> it will commit your git and added 

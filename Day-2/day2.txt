@@ -1,1 +1,5 @@
 HTML, CSS, JS are the basic frontend technology. Frontend technologies are responsible for what appear on the website.Every day we are doing small assignment & push it into github. Also we are writing an article into hashnode.com . 
+
+Assignment: 1) Make an introduction page with html tags (heading, p, br, hr, img). u may use b, i, u if u want also add link in your one social media link.
+
+            2) How to insert images and links in html.

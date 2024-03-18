@@ -1,0 +1,1 @@
+HTML, CSS, JS are the basic frontend technology. Frontend technologies are responsible for what appear on the website.Every day we are doing small assignment & push it into github. Also we are writing an article into hashnode.com . 

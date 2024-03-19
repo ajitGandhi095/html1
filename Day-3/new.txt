@@ -1,0 +1,3 @@
+Formatting tags --> Formatting tags are used to format the text like making the text bold, italic, 
+
+material --> extension

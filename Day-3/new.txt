@@ -1,3 +1,20 @@
 Formatting tags --> Formatting tags are used to format the text like making the text bold, italic, 
 
 material --> extension
+
+index.html --> first browser find the index.html file
+
+setting-> pages -> branch(main/master) ->save (live github pages)
+
+git clone -> git clone enter clone code link
+
+b, strong
+i,em
+u, ins
+del, strike
+sup, sub
+big, small
+pre
+code
+
+ Task :- Make a nice article on hashnode which explains the basic html till formatting                                          tags.

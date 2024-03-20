@@ -61,12 +61,68 @@ Internet & basic :-
 
     Formatting tag
     ------------------
+    bold
+    *******
+    tag --> <b>content</b>
+    --> It is use for bold any latter/word/sentence.
 
     strong
     *******
     tag --> <strong>content</strong>
     --> it is more preferable compair to bold tag
+    --> Browser more preferable strong tag
 
+    italic 
+    ********
+    tag --> <i>content</i>
+
+    emphasized
+    ***********
+    tag --> <em>content</em>
+    -->It is also same as italic tag but it is more preferable.
+
+    delete
+    ********
+    tag --> <del>content</del>
+    --> it is delete the content.
+    --> it is more preferable.
+
+    strike
+    *******
+    tag --> <strike>content</strike>
+    --> it is also same as delete tag.
+
+    super
+    *******
+    Example :- (a+b)2
+    tag --> (a+b)<sup>2</sup>
+
+    sub
+    ******
+    Example :- H20
+    tag --> H<sub>2</sub>0
+    
+    big
+    *****
+    tag --> <big>content</big>
+    --> it is use to big size content
+
+    small
+    *******
+    tag --> <small>content</small>
+    --> it is use to small size content
+
+    pre
+    *****
+    tag --> <pre>
+               content
+            </pre>
+    --> it is use to write any poem
+
+    code
+    *****
+    tag --> <code>content</code>
+    --> it is convert a content into coding format.
 
 Basic HTML :-
 ===============
@@ -86,7 +142,6 @@ How to maintain a blog :-
 
    --> create a account in hashnode and blog in hashnode. & click write at top and write an article on what u know.
 
-   bigdp585@gmail.com
 
 Git & Github :-
 =========================
@@ -106,7 +161,6 @@ Git & Github :-
 
     How to push your code Github
     ------------------------------
-    --> git remote add origin "code_link paste here"
+    --> git remote add origin "code_link paste here" -> it is run only one time in one git folder.
     --> git push -u origin main/master(as your git brance name here).
-
     --> Again add, commit. 

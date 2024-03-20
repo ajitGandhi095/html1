@@ -1,0 +1,112 @@
+Internet & basic :-
+=========================
+    --> Internet is network of networks. www stands for world wide web is implemented by Tim Brener's Lee.
+
+    --> When we enter google.com(url) in browser, browser requests ISP(like jio,airtel), then it moves to DNS(Domain Name System)--> it contains the IP address of respective domains.It will lead to server by IP address. Server will respond and clint receives HTML, CSS, JS.
+
+    --> Domain(.com,in etc..,), URL(Uniform Resource Locator), http vs https(secured)(SSL-
+    Secure Socket Layer certificate)
+
+    Basic linux: cd -->change directory
+                 cd folder_name -->it will make control forword to another folder_name
+                 cd.. -->it will make control back to previous folder
+                 ls --> list of all
+                 mkdir -->Create a directory
+                 rkdir -->Delete a directory
+                 code editor --> vs code
+                 extension --> live server(ritwick dey)/live preview, prettier(code format)
+    Some tag:- 
+    ------------
+    Heading tag
+    ************
+    h1,h2,h3,h4,h5,h6  -->This this tah is used for heading.
+    NOTE: one web page one h1 tag use for good practice.
+
+    paragraph
+    **********
+    tag --> <p>content</p>
+    lorem20 --> it means it provide 20 word dummy text.
+
+    hyperlink
+    **********
+    tag --> <a href="https://google.com" target="_blank">Link of google</a>
+    target="_blank" --> one in a new tab.
+
+    image
+    ******
+    tag --><img src="" alt=""/>
+    alt --> alternative if image is not open
+    --> it is a self closing tag
+
+    break
+    ******
+    tag --> <br/>
+    --> It is a self closing tag
+
+    horizontal line
+    ****************
+    tag --> <hr>
+
+    bold
+    *****
+    tag --> <b>content</b>
+
+    italic
+    ******
+    tag --> <i>content</i>
+
+    underline
+    **********
+    tag --> <u>content</u>
+
+    Formatting tag
+    ------------------
+
+    strong
+    *******
+    tag --> <strong>content</strong>
+    --> it is more preferable compair to bold tag
+
+
+Basic HTML :-
+===============
+        -->html is maintain by tags and element. Elements are nothing but content embraced by open & close tags.
+        <html>
+          <head> <!-- comment here-->
+            <title>title_name</title>
+          </head>
+          <body>
+          </body>
+        </html>
+
+
+How to maintain a blog :-
+===========================
+   --> we can maintain a basic blog in hashnode.com . hashnode and dev are famous communities for developers.
+
+   --> create a account in hashnode and blog in hashnode. & click write at top and write an article on what u know.
+
+   bigdp585@gmail.com
+
+Git & Github :-
+=========================
+    --> Git is a application which is used for version control. git is a centralized version control system. git keeps track of all your versions, changes and update.
+
+    --> git will contain 3 phases :-
+                        1) Working Phase/Working Area :- git init
+                        2) Staging Phase/Staging Area :- git add .(Everything add) / 
+                                                    git add folder_name (one folder add)
+                        3) Local Repository :- git commit -m "message"
+                        (if any error coming  who are u)
+        -->To solve who r u -> git config --global user.email "your email id"
+                            -> git config --global user.name "git username"
+
+        --> Github is a platform created by microsoft where developers share, depoly and 
+            merge code.
+
+    How to push your code Github
+    ------------------------------
+    --> git remote add origin "code_link paste here"
+    --> git push -u origin main/master(as your git brance name here).
+
+    --> Again add, commit. 

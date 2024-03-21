@@ -1,0 +1,61 @@
+ LISTS :-
+ ======================
+    --> List are used to maintain list of item. there are different kind of list.
+    some list need order and some don't.
+
+    eaxmple:- 1. raj
+              2. vani
+              3. ajit
+    eaxmple-2 :- raj
+                 vani
+                 ajit-->
+    
+    --> there are 3 types of list in html :-
+                   1. order list.
+                   2. Unordered List.
+                   3. Descriptive/Definition List.
+
+1) order list :-
+   -----------
+   --> all list item are between ol element and each list item will be annotated by li tag.
+       by dafault ol will be 1,2,3... so on.
+
+    qn:- create an order list of any three fruits then each one denoted by alphabets starting from "p".
+         p) apple
+         q) mango
+         r) banana
+    NOTE: start only number not character.
+
+2) unordered list(<ul>) :-
+   --------------------------
+    --> ul>li -> shortcut
+    --> li*3 -> 3 li comes
+    --> no type & no start
+
+3) Discriptive List / definition list :-
+   --------------------
+    --> dt -> Means definition term. it's like side heading of the definition.
+    --> dd -> Means definition data. it's like main content or definition.
+
+Block & Inline :-
+=========================
+  -->There are 2 types of element in html :-
+                                  1) Block element
+                                  2) Inline element
+
+  Block element :-
+  -----------------
+    -->Block elements don't allow next element to be beside them.
+    --> Example :- heading, paragraph, div, semantic element etc.
+
+  Inline element :-
+  -------------------
+     --> Inline element
+     --> span atg is more preferable.
+         -->NOTE: image atg both block & inline.
+            ****
+    --> General block element is div and general inline element is span.
+    --> div :-
+        *******
+           -->
+    

@@ -1,0 +1,15 @@
+--> all div should have background color -> red
+   all div with class first should have text in white
+   div with id middle should have text in yellow.
+
+--> div{
+      // property of div.
+}
+
+--> task-2:
+       Body background green 
+       two divs background yellow
+       color red
+
+--> inline is give more priority compair to internal.
+but prefer internal/external css
